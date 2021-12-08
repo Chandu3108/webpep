@@ -1,0 +1,9 @@
+git files life cycle  -- untraced and traced(modified,stages(add),commited).
+
+
+
+//COMMANDS
+git init               //to initialize the git
+git status             //to find the status of the files that they're untraced,modified,commited.
+git add file_name or .(dot adds all the files that are untraced)//to add untraced files to next step where they can be modified.
+git commit -m "comment that gives description about the change" //it commits changes in local
